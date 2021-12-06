@@ -1,0 +1,12 @@
+.footer {
+    min-width: 85vw;
+    height: 8vh;
+    color: black;
+    font-size:larger;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    padding-top: 3vh;
+    background-color: white;
+
+}
