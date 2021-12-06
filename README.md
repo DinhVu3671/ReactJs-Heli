@@ -5,12 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Description
 
 Có các chức năng cơ bản: \
-    -Đăng nhập
-    -Hiển thị thông tin user
-    -Quản lý thông tin user: xem, thêm, xoá
-    -Phân trang danh sách
-    -Chuyển đổi ngôn ngữ
-    -Đăng xuất
+    -Đăng nhập \
+    -Hiển thị thông tin user \
+    -Quản lý thông tin user: xem, thêm, xoá \
+    -Phân trang danh sách \
+    -Chuyển đổi ngôn ngữ \
+    -Đăng xuất \
 
 Sử dụng redux để quản lý State
 
