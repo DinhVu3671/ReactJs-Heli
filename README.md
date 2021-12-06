@@ -1,6 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+
+### Description
+
+Có các chức năng cơ bản: \
+    -Đăng nhập
+    -Hiển thị thông tin user
+    -Quản lý thông tin user: xem, thêm, xoá
+    -Phân trang danh sách
+    -Chuyển đổi ngôn ngữ
+    -Đăng xuất
+
+Sử dụng redux để quản lý State
 
 ## Available Scripts
 
